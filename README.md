@@ -3,4 +3,4 @@ Ahsoka Tano, von ihrem Meister Anakin Skywalker auch Snips genannt, war eine Jed
 
 [Biografie](https://github.com/Blitz2804/charakter-ahsoka-tano/blob/main/biografie.md)
 [Abenteuer](https://github.com/Blitz2804/charakter-ahsoka-tano/blob/main/abenteuer.md)
-
+[Eigenschaften](https://github.com/Blitz2804/charakter-ahsoka-tano/blob/main/eigenschaften.txt)
