@@ -4,10 +4,10 @@
 
 ## 1. Überschriften (verschiedene Ebenen)
 
-# Hauptüberschrift: Ahsoka Tano
-## Sekundärüberschrift: Persönliche Informationen
-### Tertiärüberschrift: Charaktereigenschaften
-#### Quaternäre Überschrift: Spezielle Fähigkeiten
+# Ahsoka Tano
+## Persönliche Informationen
+### Charaktereigenschaften
+#### Spezielle Fähigkeiten
 
 ---
 
