@@ -1,8 +1,13 @@
-🧬 Name: Ahsoka Tano
-🌍 Herkunft: Shili (Planet in der Region der Äußeren Randgebiete)
-👤 Spezies: Togruta
-🎂 Geboren: 36 VSY (Vor der Schlacht von Yavin)
-📅 Alter (je nach Ära):
+# Die Biografie einer Jedi-Rittern und Rebellin
+
+
+- Name: Ahsoka Tano
+- Herkunft: Shili (Planet in der Region der Äußeren Randgebiete)
+- Spezies: Togruta
+- Geboren: 36 VSY (Vor der Schlacht von Yavin)
+- Alter (je nach Ära):
+
+
 | Ära                                          | Alter            |
 | -------------------------------------------- | ---------------- |
 | *The Clone Wars* (Start, 22 VSY)             | ca. **14 Jahre** |
